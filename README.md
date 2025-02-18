@@ -15,7 +15,7 @@ A simple unit conversion API for various categories including **Length**, **Weig
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/convert.git
+   git clone https://github.com/vanity-smurf/unit-converter.git
 
 ## Supported Conversions
 
